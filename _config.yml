@@ -1,34 +1,46 @@
-typography_spectrum: 0.7905377394054085
+title: TEST
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.0062376519199460745
-  lightness: 0.14411699259653687
   saturation: 0.5868686952162534
+  brandStrength: 0.006237651919946074
+  lightness: 0.1441169925965369
+  brandColors:
+    - '#89ACC8'
+    - '#1C281A'
+    - '#CCE1E4'
+    - '#3F5A75'
+    - '#CD9F7C'
   rhythmicContrast: 0.7570294893812388
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.2775807960424572
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: Marco's News
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 navigation:
   - name: NOS Pricing
     url: >-
       https://docs.google.com/spreadsheets/d/10y8cErOgSclJdbBUB3F_Y_IDso1RAJZOZ4j1YVHj6Qw/pubhtml?gid=0&single=true
     type: external
 favicon: null
-title: TEST
-purpose: []
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Marco's News
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8931257
+layout_spectrum: 0.001611154
