@@ -1,20 +1,4 @@
-name: "Marco's News"
-favicon: null
-layout_spectrum: 0.2775807960424572
 typography_spectrum: 0.7905377394054085
-title: TEST
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -26,4 +10,25 @@ color:
   lightness: 0.14411699259653687
   saturation: 0.5868686952162534
   rhythmicContrast: 0.7570294893812388
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2775807960424572
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Marco's News
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: NOS Pricing
+    url: >-
+      https://docs.google.com/spreadsheets/d/10y8cErOgSclJdbBUB3F_Y_IDso1RAJZOZ4j1YVHj6Qw/pubhtml?gid=0&single=true
+    type: external
+favicon: null
+title: TEST
 purpose: []
